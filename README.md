@@ -4,6 +4,9 @@ Dataset for Assignment-3: https://huggingface.co/datasets/QuinnZ129/AI-Assignmen
 
 
 For Final Exam Take Home Part:
-I directly used the docker with tensorflow/tensorflow image. 
+
+I directly used the docker with tensorflow/tensorflow image.
+
 For other packages, please "pip install optuna" and "pip install -U scikit-learn scipy matplotlib".
+
 All the output graphs are in the "output plots" folder.
